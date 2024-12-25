@@ -1,0 +1,18 @@
+div{
+    border: all solid black;
+
+    border:10%;
+    border-color: rgb(218, 177, 255);
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left:4vw;
+    margin-top: 4vw;
+    margin-bottom:4vw;
+    background-color: rgb(255, 255, 255);
+    width: 15rem;
+    height: 20rem;
+    position: relative;
+    cursor: pointer;
+padding:33px;
+box-shadow:0 5px 5px ;
+}
